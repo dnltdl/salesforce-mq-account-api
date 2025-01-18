@@ -1,0 +1,4 @@
+simple-salesforce
+stomp.py
+pyyaml
+flask

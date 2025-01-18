@@ -1,0 +1,4 @@
+sfdc:
+  username: "dummyuser.com"
+  password: "dummypassword"
+  token: "dummytoken"
